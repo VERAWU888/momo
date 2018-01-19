@@ -190,8 +190,8 @@ a {
 
 .box ul li a .ii {
 	display: block;
-	background-color: #000;
-	margin-top: 20px;
+	margin-top: 20px;  
+	background-color:rgba(1,1,1,1);
 	padding-top: 10px;
 	width: 160px;
 	height: 33px;
